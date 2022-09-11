@@ -1,4 +1,3 @@
-from errno import ESTALE
 import requests
 import json
 
